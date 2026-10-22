@@ -1,7 +1,5 @@
 *.docx
 *.pdf
-*.jpg
-*.png
 *.sln
 *.vcxproj
 *.vcxproj.filters
