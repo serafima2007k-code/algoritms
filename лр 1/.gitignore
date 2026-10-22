@@ -1,0 +1,3 @@
+*.vsix
+.vs/
+*.vsix/

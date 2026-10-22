@@ -1,0 +1,5 @@
+car
+cart
+cat
+catfish
+dog
