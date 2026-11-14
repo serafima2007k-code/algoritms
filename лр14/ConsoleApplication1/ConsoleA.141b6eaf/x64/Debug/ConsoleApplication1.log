@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Acer\Desktop\алгоритмы и структура данных\2 семестр\лр14\ConsoleApplication1\ConsoleApplication1.cpp(31,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\Desktop\алгоритмы и структура данных\2 семестр\лр14\ConsoleApplication1\ConsoleApplication1.cpp(44,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\Desktop\алгоритмы и структура данных\2 семестр\лр14\ConsoleApplication1\ConsoleApplication1.cpp(61,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\Desktop\алгоритмы и структура данных\2 семестр\лр14\ConsoleApplication1\ConsoleApplication1.cpp(61,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\Desktop\алгоритмы и структура данных\2 семестр\лр14\ConsoleApplication1\ConsoleApplication1.cpp(102,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Acer\Desktop\алгоритмы и структура данных\2 семестр\лр14\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
